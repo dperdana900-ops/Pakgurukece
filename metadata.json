@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Generator Pak Guru Kece",
+  "description": "An AI-powered photo generator for school administration, created by 'Pak Guru Kece'. It features an AI Photographer for formal photos and an AI Custom Photo tool for artistic creations, leveraging the Gemini API.",
+  "requestFramePermissions": []
+}
